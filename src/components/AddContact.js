@@ -69,7 +69,7 @@ class AddContact extends React.Component {
                 >
                   Add
                 </button>
-                <div>{messsage}</div>
+                <div>{message}</div>
               </div>
             </div>
           </form>
